@@ -1,0 +1,22 @@
+{
+    "name": "amplify-frontend",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@antv/g6": "^4.2.7",
+        "autosize": "^4.0.4",
+        "fabric": "^4.5.0",
+        "lodash.clonedeep": "^4.5.0",
+        "nuxt": "^2.15.5",
+        "quill": "^1.3.7",
+        "vue": "^2.6.12"
+    },
+    "devDependencies": {
+        "@nuxtjs/vuetify": "^1.11.3"
+    }
+}
